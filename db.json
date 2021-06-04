@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "name": "long han anh",
+      "phone": "0988787328",
+      "id": 6
+    }
+  ],
+  "usercar": [
+    {
+      "name": "nguyen dep zai",
+      "address": "ha noi",
+      "phone": "0988787328",
+      "car_description": "hihi",
+      "price": "389",
+      "id": 6
+    },
+    {
+      "name": "ngoc an cut",
+      "address": "ha noi",
+      "phone": "0988787328",
+      "car_description": "leuleu",
+      "price": "700 triệu",
+      "id": 7
+    }
+  ],
+  "cart":[
+    {
+      "car-id":1,
+      "img":"https://storage.googleapis.com/f1-cms/2021/05/c85936df-20210513_065417-267x200.jpg",
+      "tilte":"Ford EcoSport Titanium 1.5AT 2015",
+      "address":"Hà Nội",
+      "parameter":" 2015 | 67.608km | Trắng | Số tự động ",
+      "price":"439",
+      "prepay":"Trả trước 189 triệu"
+    }
+  ]
+}
